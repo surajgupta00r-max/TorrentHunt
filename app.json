@@ -9,7 +9,7 @@
       "inline"
     ],
     "website": "https://github.com/hemantapkh/TorrentHunt",
-    "repository": "https://github.com/hemantapkh/TorrentHunt",
+    "repository": "https://github.com/surajgupta00r-max//TorrentHunt",
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from https://t.me/botfather",
